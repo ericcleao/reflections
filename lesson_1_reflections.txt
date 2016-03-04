@@ -1,0 +1,21 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+- When I use diff I can see all the rights or wrongs changes I made, thats help because I don't need to read all my code to see where did I can made a typo or any semantics error at the code.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+- Look to the entire history of a file or project that I made improved my knowledge about how I write, and how I wrote, my codes and learn throw my errors and bad writing.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+- Pros: You can decide if a change is a new feature or not, instead of have all versions that you needed to save be at the history(version-control) of your project.
+- Cons: You have always stop what you doing to make a commit, you need to pay attention to what you doing because you can start a new feature and didn't make a commit about the last one
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+- Because version control systems like Git are made with the proposal of save versions of a project that involves a lot of archives to do something they need to save all the archives to have a version of the project while at the Google Docs it only need to worry about the file in question to have the actual and last version
+
+How can you use the commands git log and git diff to view the history of files?
+- I can get the commit id that I made with the git log and use it at the git diff to see all the differences between two versions that I want to
+
+How might using version control make you more confident to make changes that could break something?
+- Know how I can come back to a early state of my software is very nice, this makes that I don't concern if a change will crash my program or not and if it happen I can just back to a previous version where the bug wasn't introduced
+
+Now that you have your workspace set up, what do you want to try using Git for?
+- I want try git at a real programming project, see how works git at a real scenery.
