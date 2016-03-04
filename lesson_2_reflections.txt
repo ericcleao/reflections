@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+It's created a directory called .git to save all my history of commits. I need do that to have this history and use the git at my repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area is a place where a tacked my files before I commit them, its help me to look what files I will commit, depends what's the logic behind them, and thats help to me to don't worry about start another idea before commit the last one.
