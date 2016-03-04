@@ -9,3 +9,6 @@ Using "git diff" and "git diff --staged" I can guarantee thats only one logical 
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 Using branches helps to don't mix simultaneous features of the programming project, in others words, the history will only show ideas for a feature like its only thats feature is been made and after all in merge the all project will be together, showing how the feature was thought
+
+How do the diagrams help you visualize the branch structure?
+Visualize a branched structure can be difficult, even in simple projects branches can be tricky see all the branch structure, when you create a diagram you can see how the commits are related
