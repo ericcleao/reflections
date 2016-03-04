@@ -3,3 +3,9 @@ It's created a directory called .git to save all my history of commits. I need d
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 The staging area is a place where a tacked my files before I commit them, its help me to look what files I will commit, depends what's the logic behind them, and thats help to me to don't worry about start another idea before commit the last one.
+
+How can you use the staging area to make sure you have one commit per logical change?
+Using "git diff" and "git diff --staged" I can guarantee thats only one logical change is been put at the repository.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Using branches helps to don't mix simultaneous features of the programming project, in others words, the history will only show ideas for a feature like its only thats feature is been made and after all in merge the all project will be together, showing how the feature was thought
