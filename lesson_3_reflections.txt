@@ -29,4 +29,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    I should create other branch always that I will change something big at the project, I can't risk crash all the project at the creation of a new feature for example. I believe that we need to have specifics branches, need know exactly which branch use in each case.
