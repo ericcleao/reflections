@@ -1,17 +1,17 @@
 1 - What happens when you initialize a repository? Why do you need to do it?
-A - It's created a directory called .git to save all my history of commits. I need do that to have this history and use the git at my repository.
+- It's created a directory called .git to save all my history of commits. I need do that to have this history and use the git at my repository.
 
 2 - How is the staging area different from the working directory and the repository? What value do you think it offers?
-A - The staging area is a place where a tacked my files before I commit them, its help me to look what files I will commit, depends what's the logic behind them, and thats help to me to don't worry about start another idea before commit the last one.
+- The staging area is a place where a tacked my files before I commit them, its help me to look what files I will commit, depends what's the logic behind them, and thats help to me to don't worry about start another idea before commit the last one.
 
 3 - How can you use the staging area to make sure you have one commit per logical change?
-A - Using "git diff" and "git diff --staged" I can guarantee thats only one logical change is been put at the repository.
+- Using "git diff" and "git diff --staged" I can guarantee thats only one logical change is been put at the repository.
 
 4 - What are some situations when branches would be helpful in keeping your history organized? How would branches help?
-A - Using branches helps to don't mix simultaneous features of the programming project, in others words, the history will only show ideas for a feature like its only thats feature is been made and after all in merge the all project will be together, showing how the feature was thought.
+- Using branches helps to don't mix simultaneous features of the programming project, in others words, the history will only show ideas for a feature like its only thats feature is been made and after all in merge the all project will be together, showing how the feature was thought.
 
 5 - How do the diagrams help you visualize the branch structure?
-Visualize a branched structure can be difficult, even in simple projects branches can be tricky see all the branch structure, when you create a diagram you can see how the commits are related.
+- Visualize a branched structure can be difficult, even in simple projects branches can be tricky see all the branch structure, when you create a diagram you can see how the commits are related.
 
 6 - What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
-A - When we merge two branches together we have only one of the branches responsible for all the changes, we can make changes at the the secondary branch and after have a new release version we can merge the two branches and the primary branch will have all the changes.
+- When we merge two branches together we have only one of the branches responsible for all the changes, we can make changes at the the secondary branch and after have a new release version we can merge the two branches and the primary branch will have all the changes.
