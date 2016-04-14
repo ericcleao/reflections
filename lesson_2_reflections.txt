@@ -15,3 +15,6 @@
 
 6 - What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 - When we merge two branches together we have only one of the branches responsible for all the changes, we can make changes at the the secondary branch and after have a new release version we can merge the two branches and the primary branch will have all the changes.
+
+7 - Automatic vs. Manual Merging
+- When git use automatic merging isn't easy to know what are the new features, what another person did. But otherwise manual merging is really  boring to do.
