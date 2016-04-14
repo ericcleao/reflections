@@ -18,7 +18,7 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    I can work with all the update made by others collaborators, if they send it to the remote repository and I won't sync it, for example, I can be doing something that other person already made.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
